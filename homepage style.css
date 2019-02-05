@@ -1,32 +1,26 @@
-body
-  {
-    background-image: url("darkgrey.jpg")
-  }
+body {
+  background-image: url("darkgrey.jpg")
+}
 
-img
+img {
+  float:right; width:848px; height:639px;padding-right: 100px; padding-top: 70px;
+}
 
-  {
-    float:right; width:848px; height:639px;padding-right: 100px; padding-top: 70px;
-  }
-
-a
-{
+a {
   color: #000000;
   color: white;
   text-decoration: none;
 }
 
-div#home-quote
-  {
-    list-style-type:none;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 17px; font-style: normal; font-weight: 400; color: white;
-    padding-top: 70px;
-    padding-left: 100px;"
-  }
+div#home-quote {
+  list-style-type:none;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 17px; font-style: normal; font-weight: 400; color: white;
+  padding-top: 70px;
+  padding-left: 100px;"
+}
 
-ul#home-list
-{
+ul#home-list {
   list-style-type:none;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 17px; font-style: normal; font-variant: small-caps; font-weight: 400; color: white;
