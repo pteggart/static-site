@@ -12,7 +12,7 @@ a {
   text-decoration: none;
 }
 
-div#home-quote {
+#home-quote, #music-quote, #fitness-quote {
   list-style-type:none;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 17px; font-style: normal; font-weight: 400; color: white;
@@ -20,7 +20,7 @@ div#home-quote {
   padding-left: 100px;"
 }
 
-ul#home-list {
+#home-list, #music-list, #fitness-list {
   list-style-type:none;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 17px; font-style: normal; font-variant: small-caps; font-weight: 400; color: white;

@@ -13,22 +13,8 @@ a {
   text-decoration: none;
 }
 
-div#fitness-quote {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 17px; font-style: normal; font-weight: 400; color: white;
-  padding-top: 70px;
-  padding-left: 100px;"
-}
 
-ul#fitness-list {
-  list-style-type:none;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 17px; font-style: normal; font-variant: small-caps; font-weight: 400; color: white;
-  padding-top: 70px;
-  padding-left: 100px;"
-}
-
-table#fitness-table {
+#fitness-table {
   border: 1px solid black;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 17px; font-style: normal; font-weight: 400; color: white;

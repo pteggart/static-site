@@ -2,8 +2,8 @@ body {
   background-image: url("darkgrey.jpg")
 }
 
-img {
-  float:right; width:590px; height:520px;padding-right: 100px; padding-top: 70px;
+#music-photo {
+  float:right; width:610px; height:520px;padding-right: 100px; padding-top: 70px;
   -webkit-filter: grayscale(0.4)
 }
 
@@ -13,13 +13,6 @@ a {
   text-decoration: none;
 }
 
-div#music-quote {
-  list-style-type:none;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 17px; font-style: normal; font-weight: 400; color: white;
-  padding-top: 70px;
-  padding-left: 100px;"
-}
 
 p#video-one {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -32,13 +25,6 @@ p#video-two {
   font-size: 17px; font-style: normal; font-weight: 400; color: white;
 }
 
-ul#music-list {
-  list-style-type:none;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 17px; font-style: normal; font-variant: small-caps; font-weight: 400; color: white;
-  padding-top: 70px;
-  padding-left: 100px;"
-}
 
 h2 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
