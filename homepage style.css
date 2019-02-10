@@ -12,6 +12,18 @@ a {
   text-decoration: none;
 }
 
+li#PT{
+  padding-bottom: 30px;
+}
+
+li#Contact{
+  padding-top: 10px;
+}
+
+li{
+   padding-bottom: 20px;
+}
+
 #home-quote, #music-quote, #fitness-quote {
   list-style-type:none;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -25,5 +37,5 @@ a {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 17px; font-style: normal; font-variant: small-caps; font-weight: 400; color: white;
   padding-top: 70px;
-  padding-left: 100px;"
+  padding-left: 100px;
 }
