@@ -1,17 +1,42 @@
 #music-photo {
-  float:right; width:610px; height:520px;padding-right: 100px; padding-top: 70px;
+  float:right; width:640px; height:520px;padding-right: 100px; padding-top: 70px;
   -webkit-filter: grayscale(0.4)
 }
 
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
 p#video-one {
+  padding-left: 95px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 17px; font-style: normal; font-weight: 400; color: white;
+  padding-bottom: 200px;
 }
 
 p#video-two {
-  margin-left: 95px;
+  padding-left: 95px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 17px; font-style: normal; font-weight: 400; color: white;
+  padding-bottom: 130px;
+}
+
+p#video-three {
+  padding-left: 95px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 17px; font-style: normal; font-weight: 400; color: white;
+  padding-bottom: 220px;
+}
+
+p#video-four {
+  padding-left: 95px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 17px; font-style: normal; font-weight: 400; color: white;
+  padding-bottom: 130px;
 }
 
 li#PT{
@@ -23,16 +48,10 @@ li#Contact{
 }
 
 h2#videos {
+  padding-top: 100px;
+  padding-bottom: 50px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 25px; font-style: normal; font-variant: small-caps; font-weight: 400; color: white;
-}
-
-.float-left {
-  float: left;
-}
-
-.float-right {
-  float: right;
 }
 
 iframe {
