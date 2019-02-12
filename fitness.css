@@ -1,12 +1,6 @@
-img {
+img{
   float:right; width:500px; height:600px;padding-right: 200px; padding-top: 70px;
   -webkit-filter: grayscale(0.5)
-}
-
-#fitness-table {
-  border: 1px solid black;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 17px; font-style: normal; font-weight: 400; color: white;
 }
 
 li#PT{
@@ -15,4 +9,35 @@ li#PT{
 
 li#Contact{
   padding-top: 10px;
+}
+
+h2#strength-training{
+  padding-top: 180px;
+  padding-bottom: 50px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 25px; font-style: normal; font-variant: small-caps; font-weight: 400; color: white;
+}
+
+#fitness-table{
+  padding-left: 95px;
+  padding-right: 95px;
+  padding-bottom: 95px;
+  float: left;
+}
+
+th, tr, td{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 1px solid white;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px; font-style: normal; font-variant: small-caps; font-weight: 400; color: white;
+}
+
+#top-fitness {
+  padding-left: 95px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 17px; font-style: normal; font-weight: 400; color: white;
+  padding-bottom: 210px;
 }
