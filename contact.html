@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Patrick Teggart - Contact</title>
+  <link rel="stylesheet" href="homepage style.css">
+  <link rel="stylesheet" href="contact style.css">
+</head>
+<body>
+
+  <header id="contact">
+    <h2 id = "contact">Contact</h2>
+  </header>
+
+  <ul id = "contact-list" class="float-left">
+    <li id="PT">Patrick Teggart</li>
+    <li><a href="homepage.html">Home</a>
+    <li><a href="music.html">Music</a></li>
+    <li><a href="fitness.html">Fitness</a></li>
+    <li><a href="travel.html">Travel</a></li>
+    <li><a href="photography.html">Photography</a></li>
+    <li><a href="programming.html">Programming</a></li>
+    <li id="Contact"><a href="contact.html" onclick="return false;">&#9658; Contact</a></li>
+  </ul>
+
+  <main>
+    <form action="/my-handling-form-page" method="post">
+      <div>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="user_name">
+      </div>
+      <div>
+        <label for="mail">E-mail:</label>
+        <input type="email" id="mail" name="user_mail">
+      </div>
+      <div>
+        <label for="msg">Message:</label>
+        <textarea id="msg" name="user_message"></textarea>
+      </div>
+    </form>
+  </main>
+
+</body>
+</html>

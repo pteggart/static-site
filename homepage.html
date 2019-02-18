@@ -10,7 +10,7 @@
 <body>
   <img src = "Patty on Mountain.jpg">
   <ul id = "home-list">
-    <li id="PT">Patrick Teggart</li>
+    <span id="patrick"><li id="PT">Patrick Teggart</li></span>
     <li><a href="homepage.html" onclick="return false;">&#9658; Home</a>
     <li><a href="music.html">Music</a></li>
     <li><a href="fitness.html">Fitness</a></li>
@@ -19,6 +19,10 @@
     <li><a href="programming.html">Programming</a></li>
     <li id="Contact"><a href="contact.html">Contact</a></li>
   </ul>
+
+  <script>
+    $('#patrick').width();
+  </script>
 
     <div id = "home-quote">
   "The sea was angry that day, my friends, like an old man <br> trying to send back soup in a deli..."
