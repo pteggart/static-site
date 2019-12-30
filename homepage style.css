@@ -32,7 +32,7 @@ li{
   padding-left: 100px;"
 }
 
-#home-list, #music-list, #fitness-list {
+#home-list, #music-list, #fitness-list, #programming-list {
   list-style-type:none;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 17px; font-style: normal; font-variant: small-caps; font-weight: 400; color: white;

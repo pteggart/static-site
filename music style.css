@@ -1,6 +1,6 @@
 #music-photo {
   float:right; width:640px; height:520px;padding-right: 100px; padding-top: 70px;
-  -webkit-filter: grayscale(0.4)
+  -webkit-filter: grayscale(0.3)
 }
 
 .float-left {
